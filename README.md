@@ -19,7 +19,7 @@
 * Visualisation des données
 
 # Les données
-Une[base de données](https://www.kaggle.com/olistbr/brazilian-ecommerce) anonymisée comportant des
+Une [base de données](https://www.kaggle.com/olistbr/brazilian-ecommerce) anonymisée comportant des
 informations sur l’historique de commandes, les produits achetés, les commentaires de
 satisfaction, et la localisation des clients depuis janvier 2017.
 
